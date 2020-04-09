@@ -1,0 +1,4 @@
+# ignore testing junk
+.pytest_cache
+# ignore compiled python bytecode
+*/__pycache__
